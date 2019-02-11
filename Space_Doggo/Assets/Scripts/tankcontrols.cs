@@ -46,6 +46,5 @@ public class tankcontrols : MonoBehaviour {
 					//tf.position -= (tf.right * moveSpeed * Time.deltaTime);
 					//tf.position -= (tf.TransormDirection(Vector3.right) * moveSpeed * Trans
 			}
-
 	}
 }
